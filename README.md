@@ -1,4 +1,4 @@
-# Move App Made with ReactJs
+# Movie App Made with ReactJs
 
 ![https://imgur.com/a/D9p1aCL](https://i.imgur.com/lsLkNcz.jpg)
 
