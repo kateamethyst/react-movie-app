@@ -1,5 +1,7 @@
 # Move App Made with ReactJs
 
+![https://imgur.com/a/D9p1aCL](https://i.imgur.com/lsLkNcz.jpg)
+
 ## About
 > Simple movie search application made with React Js.
 
